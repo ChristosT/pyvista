@@ -5,6 +5,7 @@ Load data using a Reader
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 """
+
 # sphinx_gallery_start_ignore
 PYVISTA_GALLERY_FORCE_STATIC_IN_DOCUMENT = True
 # sphinx_gallery_end_ignore

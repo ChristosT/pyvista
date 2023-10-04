@@ -11,6 +11,7 @@ Triangle strips are a more efficient way of storing the connectivity of
 adjacent triangles.
 
 """
+
 # sphinx_gallery_start_ignore
 PYVISTA_GALLERY_FORCE_STATIC_IN_DOCUMENT = True
 # sphinx_gallery_end_ignore
